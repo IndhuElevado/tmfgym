@@ -16,9 +16,6 @@ Cookies are files with small amount of data that is commonly used an anonymous u
 
 This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
 
-### Location Information  
-For creating Attendance report this app needs to access location in the background. Our web application for super admin has the report to check their employee's attendance. He/She will check the location to check whether they are logged in from gym or not.
-
 ### Service Providers  
 We may employ third-party companies and individuals due to the following reasons:  
 * To facilitate our Service;
